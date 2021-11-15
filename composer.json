@@ -1,0 +1,13 @@
+{
+    "name": "tl/php-tool",
+    "description": "test php tool",
+    "authors": [
+        {
+            "name": "tlang",
+            "email": "308375072@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
